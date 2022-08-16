@@ -1,7 +1,7 @@
 name: DrinkWater
 on:
   schedule:
-  - cron:  '0 1-9 * * *'
+  - cron:  '0 8-21 * * *'
   workflow_dispatch:
 
 jobs:
