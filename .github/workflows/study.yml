@@ -1,7 +1,7 @@
 name: Study
 on:
   schedule:
-  - cron:  '0 1-9 * * *'
+  - cron:  '0 8-22 * * *'
   workflow_dispatch:
 
 jobs:
